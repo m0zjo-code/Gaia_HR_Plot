@@ -9,4 +9,6 @@ The following libs are required (install via pip):
 - pandas
 - astroquery
 
+![Example HR Plot](Hertzsprung-Russell.png "Example Plot")
+
 TODO - need to properly scale the colourmap
